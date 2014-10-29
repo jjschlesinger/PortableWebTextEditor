@@ -1,0 +1,1 @@
+Simple web text editor using ace that allows you to edit files from different storage sources (local file system, azure blob, s3, etc.)
